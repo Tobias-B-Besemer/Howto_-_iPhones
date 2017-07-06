@@ -1,0 +1,89 @@
+BigBoss
+http://apt.thebigboss.org/repofiles/cydia/
+
+Cydia/Telesphoreo
+http://apt.saurik.com/
+
+Dev Team
+http://repo666.ultrasn0w.com/
+
+Hackulo.us
+http://cydia.hackulo.us/
+
+ModMyi.com
+http://apt.modmyi.com/
+
+Site officiel de iPhoneDe...
+http://iphonedelivery.advinux.fr/cydia/
+
+ZodTTD & MacCiti
+http://cydia.zodttd.com/repo/cydia/
+
+
+
+Activator
+Airplane SBSettings...
+Android 6
+Apple Glass Battery
+AppSync for 4.0+
+APT 0.6 Transitional
+APT 0.7 (apt-key)
+APT 0.7 HTTPS Method
+APT 0.7 Strict
+AptBackup
+Base Structure
+BigBoss Icon Set
+biteSMS
+Bourne-Again SHell
+Bug Fix: Duplicate Icons
+Bug Fix: Stuck Pages
+bzip2
+C64 Ringtones (8 total)
+ChipTunes and KeyGe...
+Core Utilities
+Core Utilities (/bin)
+Crash Reporter
+cURL
+Cydia Installer
+Cydia Translations
+Darwin Tools
+Debian Packager
+Debian Utilities
+Default HD SBSettings
+Diff Utlities
+diskdev-cmds
+DreamBoard
+Extended Preferences
+Features
+Find Utlities
+Five Icon Dock
+GNU Privacy Guard
+grep
+gzip
+
+Hackulous Resources
+Hackulous Security
+Installous 4
+
+iPhoneDelivery
+Jailbreak Info
+keYGen tuNes
+LZMA Utils
+Mobile Substrate
+PAM (Apple)
+PAM Modules
+pincrush
+PreferenceLoader
+Profile Directory
+Saurik's Source
+SBSettings
+sbsettingstoggles
+sed
+shell-cmds
+Six Icon Dock
+Source GUI
+system-cmds
+Tab+
+Tape Archive
+UIKit Tools
+Winterboard

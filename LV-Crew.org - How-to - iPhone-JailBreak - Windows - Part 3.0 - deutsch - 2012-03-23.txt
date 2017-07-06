@@ -1,0 +1,239 @@
+LV-Crew.org - How-to - iPhone-JailBreak for 3G with iOS 4.3.1 on Windows - Part 1 - deutsch
+===========================================================================================
+Autoren: slim23_4-EveR / kILLER_bUG / Eve_L.
+
+Stand: 2011-04-07
+
+IF YOU NEED AN ENGLISH VERSION OF THIS HOW-TO: ASK FOR IT !!!
+
+
+
+Verwendete Hardware:
+--------------------
+- Apple iPhone 3G
+- Microsoft-Windows-PC
+
+
+
+Verwendete Software:
+--------------------
+- Microsoft Windows (Wir verwenden ein Windows 7 64bit ...)
+- Apple iTunes v.10.2.1.1
+- redsn0w win 0.9.6b1
+  redsn0w_win_0.9.6b1.zip
+  http://wikee.iphwn.org/
+
+
+
+Vorbereitungen am iPhone:
+-------------------------
+- Falls das iPhone schon ein JailBreak hatte:
+  - Speicher in Cydia Deine Paket-Quellen! (Cydia \ Verwalten \ Quellen)
+    Diese musst Du vermutlich später wieder eingeben!
+    Es empfiehlt sich, die dazugehörigen Pakete jeder Quelle zu notieren. Somit kannst Du später entscheiden, ob Du die Quelle noch benötigst.
+  - Erstelle eine Liste aller in Cydia installierten Pakete! (Cydia \ Verwalten \ Pakete)
+    Diese musst Du u.U. alle später wieder installieren!
+
+
+
+Vorbereitungen in iTunes:
+-------------------------
+- Aktualisiere via "Apple Software Update" Dein Apple iTunes auf die neueste Version!
+
+- Starte iTunes.
+
+- Konfiguriere Dein iTunes und Deinen iTunes-Store.
+
+- Schließe Dein iPhone 3G an.
+
+- Du kannst nun den Download der neuesten iOS-Version anlaufen lassen. (Aber noch nicht installieren!)
+
+- Übertrage nun via Rechts-Klick auf Dein iPhone (in der Liste) Deine Einkäufe!
+
+- Konfiguriere nun das Syncronisieren Deines iPhones!
+
+- Syncronisiere nun Dein iPhone!
+  (Bitte achte darauf das _ALLE_ Daten syncronisert und gesichert werden! -> Sonst Datenverlust !!!)
+
+- Nun kannst Du via "Aktualisiern" Dein neues iOS 4.1 einspielen. ;-)
+
+- Schließe nun iTunes!
+
+
+
+redsn0w verwenden:
+------------------
+- Öffne redsn0w!
+
+- Wähle Deine Firmware!
+  Diese findest Du unter Windows 7 hier:
+  C:\Users\[Dein-Benutzer-Name]\AppData\Roaming\Apple Computer\iTunes\iPhone Software Updates\iPhone1,2_4.1_8B117_Restore.ipsw
+
+- Und "Next". ;-)
+
+- Wähle die Optionen, die Du verwenden möchtest!
+  Wir setzen folgende Häkchen:
+  [x] Install Cydia (-> Der Paket-Manager!)
+  [x] Verbose boot (-> System-Infos beim Booten! -> Sieht "freaky" aus! ;-) )
+  [ ] Custom boot logo
+  [ ] Custom recovery logo
+  [x] Enable multitasking
+  [x] Enable homescreen wallpaper
+  [x] Enable battery percentage
+  (Laut diversen Seiten im Internet kannst Du Deine Einstellungen später auch noch ändern! Führe hierfür einfach redsn0w erneut aus! Wichtig ist dann wohl, dass “Install Cydia” bei jedem weiteren mal deaktiviert ist!)
+
+- Und "Next". ;-)
+
+- Wichtig ist nun:
+  - Verbinde erst das iPhone mit dem PC!
+  - Dann schalte es über den Power-Knopf und den Slider aus!
+
+- Und "Next". ;-)
+
+- Halte nun kurz den Power-Knopf gedrückt! (Ca. 3 Sekunden!)
+
+- Halte nun den Power-Knopf und den Home-Kopf gedrückt! (Ca. 10 Sekunden!)
+
+- Halte nun weiter den Home-Knopf und lasse den Power-Knopf los! (Ca. 30 Sekunden!)
+ (Es erscheint nun die Meldung im Windows: Installieren von Geräte-Treibern ...)
+
+- redsn0w kann nun geschlossen werden. Der Rest macht das iPhone selber ... ;-)
+
+
+
+Einstellen des iOS 4.1 am iPhone:
+---------------------------------
+- Als nächstes überprüfen wir die Versions-Nummer unseres iOS ...
+  Dieses geht via: "Einstellungen \ Allgemein \ Info \ Version"
+  Hier muss nun "4.1" stehen ...
+
+- Da wir höfflich sind ;-) stellen wir nun wieder via "Einstellungen \ Telefon \ Rufnummer senden" unsere Rufnummern-Übertragung ein ...
+
+
+
+Einstellungen in Cydia:
+-----------------------
+- Nun starten wir Cydia - unseren Paket-Manager ...
+
+- Cydia sagt: Reorganizing ... Will Automatically Close When Done ...
+
+- Wir starten Cydia neu. Es erscheint: Lade Daten ...
+
+- Und wir installieren gleich die ersten Änderungen ...
+
+- Nach dem Neustart des Geräts kehren wir in Cydia zurück ...
+
+- Nun fügen wir einige Quellen hinzu:
+  - Hackulo.us
+    http://cydia.hackulo.us
+    (Diese brauchen wir für z.B.: Installous)
+  - Site officiel de iPhoneDelivery
+    http://iphonedelivery.advinux.fr/cydia
+    (Diese brauchen wir für: iphoneDelivery)
+
+- Nun können wir über "Suche" die für uns interessanten Pakete installieren:
+  - Via den normallen Quellen installieren wir:
+    - Android 6 ("Android 6"-Theme)
+    - Apple Glass Battery (Batterie-Lade-Anzeige bei gesperrtem Bildschirm)
+    (- Apple Battery (Alternative zu: Apple Glass Battery))
+    - C64 Ringtones (8 total) (C64er-Klingeltöne ;-) )
+    - ChipTunes and KeyGen Ringtones (KeyGen-Klingeltöne ;-) )
+    - keYGen tuNes (Noch mehr Keygen-Klingeltöne ;-) )
+    - SBSettings (SpringBoard-Settings)
+    - Features ("iOS 4"-Features)
+    - Five Icon Dock (5 Icons in der unteren Leiste ...)
+    - biteSMS (Verbesserter SMS-Manager)
+    - Tab+ (Mehr Tabs für Safari ...)
+  - Via der "Site officiel de iPhoneDelivery"-Quelle installieren wir:
+    - iPhoneDelivery (SMS-Empfangs-Bestätigungen für biteSMS)
+  - Via der "Hackulo.us"-Quelle installieren wir:
+    - Installous (Warez-Paket-Manager)
+
+
+
+iPhone-Einstellungen aktualisieren:
+-----------------------------------
+- Nun suchen wir uns einen guten Klingelton ... ;-)
+  Hierfür gehst Du auf: Einstellungen \ Töne \ Klingeln
+  Wir entscheiden uns für: Against the Time ;-)
+  (Es ist auch möglich [relativ einfach] eigene Klingeltöne herzustellen. Hierfür werden wir bei Gelegenheite eine eigene Dokumentation erstellen!)
+
+- Nun stellen wir uns WinterBoard ein ...
+  Hierfür gehst Du auf: Einstellungen \ Winterboard \ Select Themes
+  Ziehe nun folgende Zeilen nach oben und markiere sie mit einem Häkchen:
+  - Android 6
+  - Apple Glass Battery HD
+  - User Lock Background
+  Abschließend drückst Du: "Respring".
+
+- Nun kannst Du noch "biteSMS" einstellen ...
+  Hierfür öffnest Du das biteSMS-Icon und wählst das Zahnrad an ...
+  - Schalte "Standardprogramm" ein.
+  - Und "Sperrbildschirm \ SMS-Benachrichtigung" auf "Standard".
+  - "Home-Bildschirm \ SMS-Benachrichtigung" auf "Standard".
+  - Bei "sendberichte \ Standard" muss "Ein" stehen.
+  - Bei "Smileys" "Ein".
+  - Nachdem Du via "Fertig" die Einstellung gespeichert hast, ist biteSMS nun Dein neuer Standard-SMS-Manager. ;-)
+    (Wenn Du nun auch das iPhone-Icon "Nachrichten" tippst, öffnet sich Dein SMS-Manager miit biteSMS-Funktionaliät ... ;-) )
+
+
+
+Installieren von Warez mit Installous:
+--------------------------------------
+- Installous öffnen.
+
+- Nun werden die Kategorien aktalisiert.
+
+- Über "Updates" kannst Du nach Updates suchen ...
+
+- Über "Search" findest Du weiter Apps.
+
+- Hier installieren wir: "Owner Information" und "MobileButler" ... ;-)
+
+
+
+Installieren von größeren Warez-Apps:
+-------------------------------------
+- Für größere Warez-Apps (z.B. Navigations-Apps) empfiehl es sich, die Apps vorher zu downloaden!
+
+- Hier ist leecher.to the place to be! ;-)
+  (Props 2 the freakz there !!! :-) )
+
+- Einfach das ipa-file in die iTunes-Mediatheck kopieren.
+  (...\Eigene Musik\iTunes\iTunes Media\Mobile Applications\)
+
+- Nun durch Doppel-Klick in iTunes registrieren.
+  (Das ippa-file wird automatisch umbenannt.)
+
+- In iTunes nun die Apps syncronisieren.
+
+- Hiermit installieren wir: "TomTom Westeurope" ...
+
+
+
+Abschließende Arbeiten:
+-----------------------
+- Nun noch in iTunes nach neuen Apps suchen ...
+  (Die nur für die neue iOS-Version freigegeben sind ...)
+
+- Warez-Apps sycronisieren ...
+
+- Und Backup erstellen ...
+
+- Bei bedarf noch den Windows-Papierkorb leeren ...
+
+- Über fertigen Jailbreak freuen !!! ;-)
+
+
+
+Wunsch der Autoren:
+-------------------
+Bitte melde Dich bei uns:
+- Wenn Du Fehler in der Howto endeckst!
+- Wenn Dir Dinge unklar waren, bezw. nicht richtig/vollständig dokumentiert!
+- Wenn die Howto nicht mehr aktuell ist!
+- Wenn Du Verbesserungsvorschläge hast!
+- Wenn wichtige/gute/sinnvolle Apps fehlen!
+- Wenn Du eine englische Übersetzung brauchst!
+- Wenn Du die Howto in eine andere Sprache übersetzen möchtest!
+- Wenn Du uns "Danke!" sagen möchtest ... ;-)

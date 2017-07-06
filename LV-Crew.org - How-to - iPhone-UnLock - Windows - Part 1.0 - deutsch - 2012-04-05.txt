@@ -1,0 +1,62 @@
+LV-Crew.org - How-to - iPhone-UnLock - Windows - Part 1.0 - deutsch
+===================================================================
+Autoren: slim²³ 4-EveR / kILLER bUG / Eve_L.
+
+Stand: 2012-04-05
+
+IF YOU NEED AN ENGLISH VERSION OF THIS HOW-TO: ASK FOR IT !!!
+
+
+
+Anbieter:
+---------
+T-Mobile
+
+
+
+Entsperranleitung für Apple iPhone:
+-----------------------------------
+- Die Entsperrung erfolgt über Apple iTunes.
+- Ihr Entsperr-Auftrag wird automatisch an Apple weitergeleitet und innerhalb von max. 48 Stunden bearbeitet.
+  (Nach 48 Stunden entsperren Sie Ihr iPhone über iTunes.)
+- Zur Sicherheit Ihr iPhone vorher mit iTunes synchronisieren.
+
+Entsperranleitung:
+- Das iPhone komplett ausschalten (langer Tastendruck auf die Standby-Taste)
+- Verbinden Sie das abgeschaltete iPhone mit dem PC, auf dem Ihr iTunes installiert ist.
+  (Dieser PC muss mit dem Internet verbunden sein. Es startet nun iTunes. Sollte es nicht automatisch starten, starten Sie dann iTunes bitte manuell.)
+- Ihr iPhone schaltet sich ein und es erscheint auf Ihrem iPhone eine Meldung, dass der SIM-Lock entfernt wurde.
+
+(Ging bei uns nicht!)
+
+Sollte dieses Verfahren nicht erfolgreich sein, gehen Sie bitte wie folgt vor:
+- Schalten Sie Ihr iPhone aus.
+- Halten Sie den Home-Button gedrückt und schließen Sie gleichzeitig den mit dem iPhone verbundenen USB-Stecker an Ihren Computer an.
+  (Dabei muss der Computer gestartet und iTunes installiert sein.)
+  Danach sollte iTunes automatisch starten - falls nicht passiert, starten Sie bitte iTunes manuell.
+- Halten Sie den Home-Button weiter gedrückt bis USB-Symbol erscheint, danach lassen Sie diesen los.
+- Starten Sie eine Wiederherstellung über Einstellungen > Allgemein > Zurücksetzen > Alle Einstellungen
+- Sofern Sie keine SIM-Karte der Telekom eingelegt haben, erhalten Sie in iTunes eine Hinweismeldung, dass Ihr iPhone erfolgreich entsperrt wurde.
+
+
+
+So entsperren Sie Ihr Gerät:
+----------------------------
+Nachdem Apple Ihr iPhone freigeschaltet hat, gehen Sie bitte wie folgt vor:
+
+Entsperrung erfolgt mit eingelegter SIM-Karte der Telekom, SIM-Karte eines anderen Netzbetreibers oder ohne SIM
+1. Verbinden Sie das iPhone mit iTunes (mit eingelegter SIM-Karte der Telekom, SIM-Karte eines anderen Netzbetreibers oder ohne SIM).
+2. Starten Sie die Wiederherstellung (iPhone auf Werkseinstellung zurücksetzen).
+3. Sie erhalten in iTunes eine Hinweismeldung, dass Ihr iPhone erfolgreich entsperrt wurde - sofern Sie keine SIM-Karte der Telekom eingelegt haben.
+
+Sollte dieses Verfahren nicht erfolgreich sein gehen Sie bitte wie folgt vor:
+1. Schalten Sie Ihr iPhone aus.
+2. Halten Sie den Home-Button gedrückt und schließen gleichzeitig den mit dem iPhone verbundenen USB-Stecker an Ihren Computer an. Dabei muss der Computer gestartet und iTunes installiert sein. Danach sollte iTunes automatisch starten - falls nicht passiert, starten Sie bitte iTunes manuell.
+3. Halten Sie den Home-Button weiter gedrückt bis USB-Symbol erscheint, danach lassen Sie diesen los.
+4. Starten Sie eine Wiederherstellung über Einstellungen >> Allgemein >> Zurücksetzen >> Alle Einstellungen
+5. Sofern Sie keine SIM-Karte der Telekom eingelegt haben, erhalten Sie in iTunes eine Hinweismeldung, dass Ihr iPhone erfolgreich entsperrt wurde.
+
+
+
+Kundenservice Telekom: 2202 oder aus dem Festnetz unter 0180 330 2202
+Telekom Deutschland GmbH - Landgrabenweg 151 - 53227 Bonn - Internet: www.telekom.de

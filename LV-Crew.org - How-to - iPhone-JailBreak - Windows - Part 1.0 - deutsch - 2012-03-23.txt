@@ -1,0 +1,95 @@
+LV-Crew.org - How-to - iPhone-JailBreak for 3G with iOS 4.2.1 on Windows - Part 1.0 - deutsch
+===========================================================================================
+Autoren: slim²³ 4-EveR / kILLER bUG / Eve_L.
+
+Stand: 2012-03-22
+
+IF YOU NEED AN ENGLISH VERSION OF THIS HOW-TO: ASK FOR IT !!!
+
+
+
+Verwendete Hardware:
+--------------------
+- Apple iPhone 3G
+- Microsoft-Windows-PC
+
+
+
+Verwendete Software:
+--------------------
+- Microsoft Windows (Wir verwenden ein Windows 7 64bit ...)
+- Apple iTunes v.10.6.0.40
+
+
+
+Verwendete Software in Part 2.1 / Part 2.2:
+-------------------------------------------
+Entweder: (Part 2.1)
+- sn0wbreeze-v2.5.1
+  sn0wbreeze-v2.5.1.zip
+  http://ih8sn0w.com/index.php/welcome.snow
+
+Oder: (Part 2.2)
+- redsn0w win 0.9.10b6
+  redsn0w_win_0.9.10b6.zip
+  http://blog.iphone-dev.org/
+
+
+
+Vorbereitungen am iPhone:
+-------------------------
+Falls UPD
+- Falls das iPhone schon einen JailBreak hatte:
+  - Du kannst Dir via Cydia das Programm "AptBackup" installieren.
+    Dieses Programm kann eine Liste der von Dir installieren Programme erstellen, und nach dem neuen JailBreak diese wieder installieren. ;-)
+  - Speicher in Cydia Deine Paket-Quellen! (Cydia \ Verwalten \ Quellen)
+    Diese sind nach dem JailBreak vermutlich gelöscht!
+    Es empfiehlt sich, die dazugehörigen Pakete jeder Quelle zu notieren. Somit kannst Du später entscheiden, ob Du die Quelle noch benötigst.
+  - Erstelle eine Liste aller in Cydia installierten Pakete! (Cydia \ Verwalten \ Pakete)
+    Diese musst Du u.U. alle später wieder installieren!
+
+-> Eingene Doku
+Quellen gingen bei uns nicht
+Restore geht nur ein mal
+
+
+
+Vorbereitungen in iTunes:
+-------------------------
+- Aktualisiere via "Apple Software Update" Dein Apple iTunes auf die neueste Version!
+
+- Starte iTunes.
+
+- Konfiguriere Dein iTunes und Deinen iTunes-Store.
+
+- Schließe Dein iPhone 3G an.
+
+- Du kannst nun den Download der neuesten iOS-Version anlaufen lassen. (Aber noch nicht installieren!)
+
+- Übertrage nun via Rechts-Klick auf Dein iPhone (in der linken Liste) Deine Einkäufe!
+
+- Lade vorhandene App-Updates herunter.
+
+- Konfiguriere nun das Synchronisieren Deines iPhones!
+
+- Synchronisiere nun Dein iPhone! oder 'speichern'
+  (Bitte achte darauf das _ALLE_ Daten synchronisert und gesichert werden! -> Sonst Datenverlust !!!)
+
+
+
+-> Weiter geht es in Part 2.1 für redsn0w
+-> Weiter geht es in Part 2.2 für sn0wbreeze
+
+
+
+Wünsche der Autoren:
+--------------------
+Bitte melde Dich bei uns:
+- Wenn Du Fehler in den How-tos endeckst!
+- Wenn Dir Dinge unklar waren, bezw. nicht richtig/vollständig dokumentiert!
+- Wenn die How-tos nicht mehr aktuell sind!
+- Wenn Du Verbesserungsvorschläge hast!
+- Wenn wichtige/gute/sinnvolle Apps fehlen!
+- Wenn Du eine englische Übersetzung brauchst!
+- Wenn Du die How-tos in eine andere Sprache übersetzen möchtest!
+- Wenn Du uns "Danke!" sagen möchtest ... ;-)
